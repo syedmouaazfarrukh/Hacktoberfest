@@ -21,7 +21,7 @@ if you fail to make 4 pull request then you cant get swags or t-shirts.
     </a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2022 🎉</h1>
+<h1 align="center"> Hacktoberfest 2023 🎉</h1>
 
 <div align="center">
   
